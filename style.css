@@ -1,0 +1,89 @@
+header {
+  text-align: center;
+}
+
+nav {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  transition: all;
+  color: #ffffff;
+}
+
+a:active {
+  color: aliceblue;
+}
+
+body {
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+figure img {
+  text-align: center;
+  text-align: justify;
+  margin: 0px;
+  display: block;
+  width: 300px;
+}
+
+figcaption {
+  text-align: center;
+  margin: 9px;
+}
+.border_1 {
+  margin: 3px;
+  border: 3px solid;
+  margin-bottom: 1em;
+  color: #55bce1;
+}
+
+.border_width1 {
+  border: 3px double orange;
+}
+/* style border double */
+
+.border-solid {
+  border-style: solid;
+  border-width: 3px;
+  border-color: #333;
+}
+/* Border-border */
+
+.border_top {
+  border-top: 5px dashed blueviolet;
+}
+/* border top atas */
+
+.border_bottom {
+  border-bottom: 7px dotted #363;
+}
+/* border bottom atau border bawah */
+
+.border_left {
+  border-left: 4px double yellow;
+  padding: 6px;
+}
+/* border left atau border kiri */
+
+.border_right {
+  border-right: 7px blue dotted;
+}
+/*  */
+
+.border_radius {
+  border-radius: 6px yellow dashed;
+}
+/*  */
+
+.margin_h3 {
+  margin-top: 2em;
+}
